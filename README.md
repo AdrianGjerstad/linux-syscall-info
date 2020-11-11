@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AdrianGjerstad/linux-syscall-info">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80" alt="Tux the Linux Mascot" title="Tux, The Linux Mascot"></img><br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80" alt="Tux the Linux Mascot" title="Tux, The Linux Mascot"/><br/>
   </a>
   <i>(Original by <a href="mailto:lewing@isc.tamu.edu">lewing@isc.tamu.edu &lt;Larry Ewing&gt;</a> and <a href="https://en.wikipedia.org/wiki/GIMP">The GIMP</a>)</i>
   
